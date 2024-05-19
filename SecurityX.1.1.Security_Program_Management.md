@@ -2,9 +2,13 @@
 id: rre45wpb94tbv2hiwyzk2s5
 title: Security_Program_Management
 desc: ''
-updated: 1716082033673
+updated: 1716087842166
 created: 1716077429639
 ---
+Governance, Risk, and Compliance
+
+Given a set of organizational security requirements, implement the
+appropriate governance components.
 
 ## Awareness and training
 

@@ -2,9 +2,14 @@
 id: zrg1i957f341kq62bwb1iym
 title: Change_Configuration_Management
 desc: ''
-updated: 1716084437282
+updated: 1716087829038
 created: 1716081995085
 ---
+
+Governance, Risk, and Compliance
+
+Given a set of organizational security requirements, implement the
+appropriate governance components.
 
 CompTIA A+ 1102 Exam objectives list the change management process as the following:
 

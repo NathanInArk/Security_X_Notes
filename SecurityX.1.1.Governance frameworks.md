@@ -2,9 +2,15 @@
 id: mceebp0q4fuscdl2mhwkabq
 title: Governance frameworks
 desc: ''
-updated: 1716081950111
+updated: 1716087833785
 created: 1716080839231
 ---
+Governance, Risk, and Compliance
+
+
+Given a set of organizational security requirements, implement the
+appropriate governance components.
+
 ## Control Objectives for Information and Related Technologies (COBIT)
 
 Created by ISACA, COBIT is a framework for information technology. The goal of COBIT is regulatory compliance, rick management, and aligning IT with the organization's goals. COBIT has a wider approach and is not just a technical standard, the five key principles are:

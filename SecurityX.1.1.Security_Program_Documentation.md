@@ -2,9 +2,14 @@
 id: fxiyc61cmjeb9sbt0iiyfrh
 title: Security_Program_Documentation
 desc: ''
-updated: 1716077415305
+updated: 1716087838756
 created: 1716075538823
 ---
+Governance, Risk, and Compliance
+
+Given a set of organizational security requirements, implement the
+appropriate governance components.
+
 ## Security program documentation
 
 From the top down the policy structure is, according to other sources, Policy > Standards > Baseline > Guideline > Procedure. Baseline seems to be missing from the SecurityX objectives, but it is the minium level of security that a system, network, or device must adhere to. They can be mapped to industry standards.
