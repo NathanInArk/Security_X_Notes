@@ -2,7 +2,7 @@
 id: zrg1i957f341kq62bwb1iym
 title: Change_Configuration_Management
 desc: ''
-updated: 1716087829038
+updated: 1716780218877
 created: 1716081995085
 ---
 
@@ -72,7 +72,7 @@ Implementation Evaluation
 
 ## Inventory
 
-An up to date record of all devices, licenses and assets in your organization. An up to date invetory is important for many reasons including:
+An up to date record of all devices, licenses and assets in your organization. An up to date inventory is important for many reasons including:
 
 - Strategic planning
 - risk management

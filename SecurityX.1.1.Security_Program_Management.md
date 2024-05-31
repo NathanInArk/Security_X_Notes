@@ -2,7 +2,7 @@
 id: rre45wpb94tbv2hiwyzk2s5
 title: Security_Program_Management
 desc: ''
-updated: 1716087842166
+updated: 1716780268056
 created: 1716077429639
 ---
 Governance, Risk, and Compliance
@@ -50,4 +50,4 @@ Training should cover how to report security incidents.
 
 ## Management commitment
 
-Management buy in will be a big determining factor in the adoption of security practices. Buy in helps reduce the chance of them promoting bypasses and circumventing controls. 
+Management buy in will be a big determining factor in the adoption of security practices. Buy in helps reduce the chance of them promoting bypasses and circumventing controls.
